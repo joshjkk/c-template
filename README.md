@@ -33,7 +33,3 @@ Removes all ```*.o``` and ```*.out``` files.
 ``` bash
 sudo make clean
 ```
-
-## License
-
-c-template is under the MIT License.
